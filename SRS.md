@@ -7,6 +7,8 @@
 
 ### 2.2 Интерфейс пользователя
 Система взаимодействует с пользователем с помощью кнопок, текстовых полей и всплывающих окон.
+
+
 ![screenshots_of_sample](https://sun9-51.userapi.com/c853628/v853628777/17737b/wxWw98vfzKI.jpg)
 ![screenshots_of_sample](https://sun9-23.userapi.com/c853628/v853628777/177383/EXFocL7epD4.jpg)
 ![screenshots_of_sample](https://sun9-44.userapi.com/c853628/v853628777/17738b/uyb0oh5kpyk.jpg)
