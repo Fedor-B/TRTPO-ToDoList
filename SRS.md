@@ -3,10 +3,15 @@
 Приложение для записи пользователем различных задач и запланированных дел.
 ## 2 Требования пользователя
 ### 2.1 Программные интерфейсы
-В разработке данного проекта будет использоваться среда разработки Android Studio. Проект написан на языке программирования Java.
+В разработке данного проекта будет использоваться среда разработки Android Studio(Minimum API level - API 15: Android 4.0.3). Проект написан на языке программирования Java(1.8.0_221).
 
 ### 2.2 Интерфейс пользователя
 Система взаимодействует с пользователем с помощью кнопок, текстовых полей и всплывающих окон.
+![screenshots_of_sample](https://sun9-51.userapi.com/c853628/v853628777/17737b/wxWw98vfzKI.jpg)
+![screenshots_of_sample](https://sun9-23.userapi.com/c853628/v853628777/177383/EXFocL7epD4.jpg)
+![screenshots_of_sample](https://sun9-44.userapi.com/c853628/v853628777/17738b/uyb0oh5kpyk.jpg)
+![screenshots_of_sample](https://sun9-55.userapi.com/c853628/v853628777/177393/xEhBhdTnThk.jpg)
+![screenshots_of_sample](https://sun9-45.userapi.com/c853628/v853628777/177373/n6vhyUZGPaE.jpg)
 
 
 ### 2.3 Характеристики пользователей
